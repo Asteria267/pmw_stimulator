@@ -12,7 +12,7 @@
 
 ## 🎯 What This Is
 
-A **portfolio-grade interactive PWM simulator** that visualizes Pulse Width Modulation — the technique every microcontroller uses to fake analog output from a purely digital pin. No DAC needed. Just timing.
+A **interactive PWM simulator** that visualizes Pulse Width Modulation — the technique every microcontroller uses to fake analog output from a purely digital pin. No DAC needed. Just timing.
 
 Built for Day 17 of the BuildCored Orcas 30-day hardware challenge.
 
@@ -192,10 +192,6 @@ buildcored-orcas/
 ## 🐋 BuildCored Orcas
 
 Part of the **30-day hardware + embedded systems challenge**.
-
-- Day 16 ← EchoKiller (Advanced)
-- **Day 17 → PWMSimulator Pro** ← you are here
-- Day 18 → coming up
 
 ---
 
