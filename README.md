@@ -1,4 +1,4 @@
-# ⬡ PWMSimulator Pro — Day 17 / BuildCored Orcas
+# ⬡ PWMSimulator — Day 17 / BuildCored Orcas
 
 > **Dual-Channel PWM Oscilloscope with Live LED Visualization, Code Export & Sweep Mode**
 
